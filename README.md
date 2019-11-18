@@ -1,0 +1,2 @@
+# Circular-Target
+This was assigned in my Computer Science 1 class by Professor Ahmed. This project takes the following information from an in.txt file: Cartesian coordinates of the center of a circle, radius of said circle, and a list of points. With the points given we are to test if they are inside or on the circle. Afterwards, we must order them using a merge sort and prompt the user the search for a point using a binary search algorithm.
